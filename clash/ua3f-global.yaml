@@ -73,7 +73,7 @@ proxies:
 proxy-providers:
   Global-ISP:
     type: http
-    url: "https://www.slsubs.online/api/v1/client/subscribe?token=d2dba27d0120508d3b6b935e0255ae30"
+    url: "https://subsss.slsubs.online/api/v1/client/subscribe?token=529a031d25b9edaa4747851d39b1bef8"
     interval: 3600
     path: "./Proxy-Providers/Global-ISP.yaml"
     health-check:
